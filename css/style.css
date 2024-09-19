@@ -79,8 +79,8 @@ ul {
   color: #fff;
 }
 
-.order:hover,
-.order:focus {
+.order-btn:hover,
+.order-btn:focus {
   background-color: #404bbf;
 }
 
